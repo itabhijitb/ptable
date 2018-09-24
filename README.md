@@ -33,7 +33,9 @@ This nifty one header library converts a 2D array/map into a text table.
   
   ## Output
   ```
-                 Trigonometry result for First Quadrant               |
+
+ ____________________________________________________________________
+|               Trigonometry result for First Quadrant               |
 |____________________________________________________________________|
 ________________________________________________________________________
 |     ||  3*pi/4   ||           pi/2           ||   pi/4   ||   pi/6   |
